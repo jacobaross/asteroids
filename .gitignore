@@ -1,0 +1,12 @@
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Builds / Bundlers
+dist/
+build/
+
+# Node (future tooling)
+node_modules/
+
