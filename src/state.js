@@ -6,6 +6,9 @@ export const game = {
   lives: 3,
   level: 1,
   gameOver: false,
+  paused: false,
+  controlScheme: 'wasd',
+  blackHole: false,
   slowTime: 0,
   /** @type {Particle[]} */
   particles: [],

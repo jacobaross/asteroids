@@ -1,5 +1,5 @@
-Cyberpunk Asteroids
-===================
+Neon Wreckage
+=============
 
 A fast, stylized Asteroids variant with glitching enemies, power‑ups, boss phases, and modernized architecture.
 
@@ -48,4 +48,3 @@ Next Steps (optional)
 - Split entities/rendering into modules (`ship`, `asteroid`, `draw/*`).
 - Add object pools for bullets/missiles if needed.
 - Optional: migrate to Vite + TypeScript for richer tooling.
-
